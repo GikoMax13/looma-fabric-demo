@@ -1,5 +1,7 @@
 # LOOMA Material Studio demo
 
+Live demo: https://gikomax13.github.io/looma-fabric-demo/
+
 A responsive concept storefront for an independent fabric studio. Product details, pricing, studio history and contact information are illustrative. The enquiry form validates locally and displays a demo confirmation; it does not send or store personal information.
 
 ## Run locally
